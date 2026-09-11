@@ -12,6 +12,8 @@ can check it yourself rather than take it on trust.
 | [Da Nang Airport Transfer Guide: Hoi An and Ba Na Hills](guides/da-nang-airport-transfer-hoi-an-ba-na.md) | Four transfer options compared, late-night arrivals, and the Ba Na day-trip logistics |
 | [Viettel vs Vinaphone eSIM: Coverage for Travellers](guides/viettel-vs-vinaphone-esim-coverage.md) | Which network to choose, eSIM vs physical SIM, and region-by-region coverage |
 | [Packing for Vietnam: Health, Clothing and Document Checklist](guides/vietnam-packing-health-document-checklist.md) | The six-week countdown, customs allowances, and packing for three climates |
+| [Noi Bai Airport (HAN): International Arrival and VIP Fast-Track](guides/noi-bai-airport-fast-track-arrival-guide.md) | The arrival sequence at Terminal 2, when fast-track is worth it, and late-night landings |
+| [Huu Nghi Quan: Crossing the Lang Son Land Border with China](guides/huu-nghi-quan-border-crossing-lang-son.md) | Opening hours, the Dong Dang connection, and what the eVisa does and does not cover at a land gate |
 
 ## Why these exist
 
